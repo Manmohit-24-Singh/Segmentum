@@ -1,5 +1,5 @@
 """
-🎯 Customer Segmentation Dashboard
+🎯 Segmentum
 Run with: streamlit run app.py
 """
 
@@ -15,7 +15,7 @@ from segmentum.prediction import CustomerSegmentPredictor
 
 # Page config
 st.set_page_config(
-    page_title="Customer Segmentation",
+    page_title="Segmentum",
     page_icon="🎯",
     layout="wide"
 )
