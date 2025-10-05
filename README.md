@@ -1,4 +1,4 @@
-# 🎯 Segmentum
+🎯 Segmentum
 
 An end-to-end Python-based machine learning platform for customer segmentation using K-Means clustering. Segmentum analyzes mall customer data to identify distinct behavioral segments based on Annual Income and Spending Score, enabling data-driven marketing strategies and personalized customer engagement.
 
